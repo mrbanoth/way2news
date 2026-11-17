@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-WRSJWSP');</script>
+        <!-- End Google Tag Manager -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+
+        <title>Way2News - no.1 Hyper Local Short News App.</title>
+        <meta name="description" content="no.1 Hyper Local Short News App">
+        <link rel="canonical" href="http://blog.way2news.com/">
+        <link rel="next" href="http://blog.way2news.com/index.php/page/2/">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Way2News - no.1 Hyper Local Short News App">
+        <meta property="og:description" content="no.1 Hyper Local Short News App">
+        <meta property="og:url" content="http://blog.way2news.com/">
+        <meta property="og:site_name" content="Way2News">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:description" content="no.1 Hyper Local Short News App">
+        <meta name="twitter:title" content="Way2News - no.1 Hyper Local Short News App">
+        <meta name="twitter:site" content="@way2_news">
+
+        <link rel="icon" href="images/Icon_216x16.png" sizes="32x32">
+        <link rel="icon" href="images/Icon_216x16.png" sizes="192x192">
+        <link rel="apple-touch-icon-precomposed" href="images/Icon_216x16.png">
+        <meta name="msapplication-TileImage" content="images/Icon_216x16.png">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Supermercado+One&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link href="css/styles.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
+
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&display=swap" rel="stylesheet">
+
+        <!------ Include the above in your HEAD tag ---------->
+    </head>
+    <style>
+        .roboto-c {
+            font-family: 'Roboto Condensed', sans-serif;
+            font-weight: 400 !important;
+        }
+
+        .fe-bdr p {
+            color: #000 !important;
+        }
+    </style>
+
+    <body id="home">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRSJWSP" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!-- Fixed navbar -->
+
+        <div class="bg">
+            <nav id="header" class="navbar navbar-fixed-top">
+                <div id="header-container" class="container navbar-container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a id="brand" class="navbar-brand" href="#"><img src="images/logo.svg" alt=""></a>
+                    </div>
+                    <div id="navbar" class="collapse navbar-collapse pull-right">
+                        <ul class="nav navbar-nav" id="top-menu">
+                            <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+                            <li><a href="#languages" data-toggle="tab">Languages</a></li>
+                            <li><a href="#features" data-toggle="tab">Features</a></li>
+                            <li><a href="#apptour" data-toggle="tab">App Tour</a></li>
+                            <li><a href="#blog" data-toggle="tab">Blog</a></li>
+                            <li><a href="#media" data-toggle="tab">Media</a></li>
+                            <li><a href="career1.html">careers</a></li>
+                            <li><a href="culutue.html">Events</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+
+                            <li class="line"><a href="https://play.google.com/store/apps/details?id=sun.way2sms.hyd.com"
+                                    target="_blank" class="review">Get App Now</a></li>
+
+                            <li class="sss"> <a href="https://www.facebook.com/way2newsapp/" target="_blank"><img
+                                        src="images/facebook-1.png" alt=""></a></li>
+                            <li class="sss"> <a href="https://www.linkedin.com/company/way2newsapp" target="_blank"><img
+                                        src="images/twitter-1.png" alt=""></a></li>
+                            <li class="sss"> <a href="https://twitter.com/way2_news" target="_blank"><img
+                                        src="images/twitter.png" alt=""></a></li>
+                            <li class="sss"> <a href="https://www.instagram.com/way2newsapp/" target="_blank"><img
+                                        src="images/group-9.png" alt=""></a></li>
+                        </ul>
+                    </div><!-- /.nav-collapse -->
+                </div><!-- /.container -->
+            </nav><!-- /.navbar -->
+
+            <div class="container">
+                <div class="slide-text">
+                    <p class="text-center">News paane ka desi andaaz</p>
+                    <h4 class="text-center roboto-c">India&apos;s #1 Hyperlocal Short news app</h4>
+                    <a href="https://apps.apple.com/in/app/way2news-short-news-app/id1021537384" target="_blank"><img
+                            src="images/app-store.png" alt=""></a>
+                    <a href="https://play.google.com/store/apps/details?id=sun.way2sms.hyd.com" target="_blank"><img
+                            src="images/play-store.png" alt=""></a>
+                </div>
+            </div>
+
+            <div class="container">
+                <div id="languages"></div>
+                <div class="mobile-sec">
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile"><img src="images/hindi.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile"><img src="images/bangla.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile mb-telugu"><img src="images/telugu.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile"><img src="images/tamil.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                    <p class="text-center roboto-c">One App - Eight languages. <br>Read news in your preferred language.
+                    </p>
+
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile"><img src="images/kannada.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile mb-telugu"><img src="images/malayalam.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile"><img src="images/gujarathi.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-3">
+                        <div class="mobile"><img src="images/marathi.png" alt="">
+                            <div class="mb-line"></div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="container desk" id="languages">
+                <h2 class="text-center roboto-c">One App - Eight Languages. <br>Read News In Your Preferred Language.
+                </h2>
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators" style="display: none;">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner text-center">
+                        <div class="item active">
+                            <div class="mobile"><img src="images/hindi.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/bangla.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/telugu.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/tamil.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/kannada.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/malayalam.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/gujarathi.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="mobile"><img src="images/marathi.png" alt="">
+                                <div class="mb-line"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev"
+                        style="display: block; top:50%;">
+                        <img src="images/arrow-left.png" alt="">
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next"
+                        style="display: block; top:50%;">
+                        <img src="images/arrow-right.png" alt="">
+                    </a>
+                </div>
+            </div>
+
+            <div class="count-sec">
+                <div class="hyper">
+                    <div class="container">
+                        <p>Way2News, India's largest hyperlocal news app covers news from 400 districts and
+                            generating more than 4 billion screen views every month - that's 3 times the entire Indian
+                            population. </p>
+                    </div>
+                </div>
+
+                <div class="counters ">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                                <div class="counter-box">
+                                    <h1 class="counter">416138</h1>
+                                    <h5>Mandal stories</h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                                <div class="counter-box">
+                                    <h1 class="counter">240922</h1>
+                                    <h5>District stories </h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                                <div class="counter-box">
+                                    <h1 class="counter">110000</h1>
+                                    <h5>Village stories</h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                                <div class="counter-box">
+                                    <h1 class="counter">40000</h1>
+                                    <h5>Contributors</h5>
+                                </div>
+                            </div>
+                        </div>
+
+                        <hr class="line2" width="190">
+                        <h6 class="roboto-c">Stay up-to-date with news around the world, <br>in your favourite language.
+                        </h6>
+
+                        <p class="text-center">
+                            <a href="https://apps.apple.com/in/app/way2news-short-news-app/id1021537384"
+                                target="_blank"><img src="images/app-store2.png" alt=""></a>
+                            <a href="https://play.google.com/store/apps/details?id=sun.way2sms.hyd.com"
+                                target="_blank"><img src="images/play-store2.png" alt=""></a>
+                        </p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+        <div class="container-fluid" id="features">
+            <div class="row">
+                <div class="container">
+                    <div class="row">
+                        <h5 class="fet roboto-c">Features</h5>
+                        <div class="features bdr-b">
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr">
+                                    <i><img src="images/share.png" alt=""></i>
+                                    <h6 class="roboto-c">News Sharing</h6>
+                                    <p>Let your friends read the news you intend to share with them.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr fe-bdr0">
+                                    <i><img src="images/magazine.png" alt=""></i>
+                                    <h6 class="roboto-c">Magazines</h6>
+                                    <p>Travel, Health, Finance & many more- Pick Magazines of your favourite topic and
+                                        lay
+                                        back to read.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr">
+                                    <i><img src="images/category.png" alt=""></i>
+                                    <h6 class="roboto-c">Categories</h6>
+                                    <p>Cinema, Business or sports, read the News from the category of your preference.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr b-right">
+                                    <i><img src="images/nightmode.png" alt=""></i>
+                                    <h6 class="roboto-c">Night Mode</h6>
+                                    <p>Reading in dark? Then make it better for your eyes with 'Night Mode'</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr style="background: #ccc; padding: 0px; margin: 0px; height: 1px; border: none;" class="xs-hide">
+                <div class="container">
+                    <div class="row">
+                        <div class="features bdr-t">
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr fe-bdr1 fe-bdb1">
+                                    <i><img src="images/flip.png" alt=""></i>
+                                    <h6 class="roboto-c">Flip Experience</h6>
+                                    <p>Read the News articles at ease by just flipping them up and down.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr fe-bdr1 fe-bdr0">
+                                    <i><img src="images/polls.png" alt=""></i>
+                                    <h6 class="roboto-c">Polls</h6>
+                                    <p>Participate in Polls on different issues and contribute your opinion to country
+                                        wide taken stats.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr fe-bdr1">
+                                    <i><img src="images/buzz.png" alt=""></i>
+                                    <h6 class="roboto-c">Top Buzz</h6>
+                                    <p>Read the most trendy and widely shared flips from 'Top Buzz'.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-sm-6">
+                                <div class="fe-bdr fe-bdr1 b-right">
+                                    <i><img src="images/bookmark.png" alt=""></i>
+                                    <h6 class="roboto-c">Bookmark</h6>
+                                    <p>Save the articles you want to revisit by adding them to 'My bookmarks'.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="continer-fluid" id="apptour">
+            <div class="bg2">
+                <div class="container">
+                    <div class="flip-sec">
+                        <div class="col-lg-9 col-sm-6">
+                            <div class="flip-size">
+                                <h4 class="roboto-c">Read news you love the most.</h4>
+                                <p>Way2News brings real time news. We understand your
+                                    reading preference and promise to deliver personalized news flips.</p>
+                                <div class="flip-buttons">
+                                    <h6>Available on</h6>
+                                    <div class="clearfix"></div>
+                                    <a href="https://apps.apple.com/in/app/way2news-short-news-app/id1021537384"
+                                        target="_blank"><img src="images/app-store2.png" alt=""></a>
+                                    <a href="https://play.google.com/store/apps/details?id=sun.way2sms.hyd.com"
+                                        target="_blank"><img src="images/play-store2.png" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 col-xs-12"> <img src="images/flip2.png" alt=""></div>
+                    </div>
+                </div>
+                <img src="images/flip-bg.png" class="img-responsive" alt="">
+            </div>
+        </div>
+
+        <div class="container" id="blog">
+            <div class="blog">
+                <h2 class="text-center roboto-c">Blog</h2>
+                <div class="col-lg-4 col-sm-4 ">
+                    <div class="blg-bx">
+                        <a href="https://blog.way2news.com/are-news-papers-transforming-from-print-to-digital/"
+                            class="roboto-c" target="_blank">
+                            <img src="https://blog.way2news.com/wp-content/uploads/2023/12/1_v9Wrb_nZdNCALXXpX9TI4w.webp"
+                                class="img-responsive" alt="">
+                            <div class="media">
+                                <h6><i></i>by Way2News <span>December 18, 2023</span></h6>
+                            </div>
+                            <p class="roboto-c">Are 'News' papers transforming from print to digital?
+                            </p>
+                            <p class="tx1">A cup of chai/coffee and the morning newspaper were synonymous with the
+                                Indian start to the day. Newspapers were the town criers, heralding the breaking news to
+                                readers. </p>
+                            <p class="readm"> Read more... </p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-4">
+                    <div class="blg-bx">
+                        <a href="https://blog.way2news.com/why-should-brands-switch-to-mobile-first-approach/"
+                            class="roboto-c" target="_blank">
+                            <img src="https://blog.way2news.com/wp-content/uploads/2023/11/01-2.jpg"
+                                class="img-responsive" alt="">
+                            <div class="media">
+                                <h6><i></i>by Way2News <span>November 22, 2023</span></h6>
+                            </div>
+                            <p class="roboto-c">Why Should Brands Switch to Mobile-first Approach?</p>
+                            <p class="tx1">As your eyes flutter open, you instinctively reach for your phone. It’s your
+                                alarm clock, your news source, and your weather forecast all in one. Your phone is the
+                                very first thing that welcomes you to the world each day. </p>
+                            <p class="readm"> Read more... </p>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-4">
+                    <div class="blg-bx">
+                        <a href="https://blog.way2news.com/native-content-premium-language-audience-is-gold-how-do-brands-target-and-where/"
+                            class="roboto-c" target="_blank">
+                            <img src="https://blog.way2news.com/wp-content/uploads/2023/06/1_s-VGspApY3-1Pl8pGaWFbQ.jpg"
+                                class="img-responsive" alt="">
+                            <div class="media">
+                                <h6><i></i>by Way2News <span>June 27, 2023</span></h6>
+                            </div>
+                            <p class="roboto-c">Native Content + Premium Language Audience is Gold. How do Brands target
+                                and where?</p>
+                            <p class="tx1">Have you ever wondered what it takes to tap into the premium language
+                                audience base? How do brands thrive tapping into such a high-end consumer...
+                            </p>
+                            <p class="readm"> Read more... </p>
+                        </a>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+        <div class="bg2" id="media">
+            <div class="container">
+                <div class="media-sec">
+                    <h4 class="text-center">As featured in</h4>
+                    <h2 class="text-center roboto-c">Latest Updates from the Way2News</h2>
+                    <!-- <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="media2">
+                            <a href="https://mediasamosa.com/2019/08/12/interview-raju-vanapala-explains-citizen-journalism-at-play-on-way2news/"
+                                target="_blank">
+                                <img src="images/media.png">
+                                <p class="roboto-c">Raju Vanapala explains citizen journalism at play on Way2News
+                                </p>
+                                <label>By Jagruti Verma, Published -August 12, 2019</label>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class="media2">
+                            <a href="https://www.exchange4media.com/digital-news/digital-has-the-ability-to-personalize-to-every-user-raju-vanapala-way2news-98546.html"
+                                target="_blank">
+                                <img src="images/media-2.png">
+                                <p class="roboto-c">Digital has the ability to personalise content for every user: Raju
+                                    Vanapala, Way2News
+                                </p>
+                                <label>by Shikha Paliwal, Published - Aug 2, 2019 </label>
+                            </a>
+                        </div>
+                    </div>
+                </div> -->
+
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://brandequity.economictimes.indiatimes.com/news/the-people-report/viacom18s-mansi-shah-joins-way2news-as-region-head-west/114307966"
+                                    target="_blank">
+                                    <img src="images/logos/et-be-1.png">
+                                    <p class="roboto-c">Viacom18's Mansi Shah joins Way2News as region head - West</p>
+                                    <label>by BE Staff, Published - OCT 17, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.storyboard18.com/advertising/1-in-3-car-buyers-are-likely-to-buy-an-electric-vehicle-way2news-survey-43901.htm"
+                                    target="_blank">
+                                    <img src="images/logos/stb18-1.png">
+                                    <p class="roboto-c">1 in 3 car buyers are likely to buy an electric vehicle:
+                                        Way2News survey</p>
+                                    <label>by Storyboard18, Published - OCT 03, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://economictimes.indiatimes.com/tech/funding/hyperlocal-news-startup-way2news-raises-14-million-in-funding-from-westbridge-capital-others/articleshow/113420783.cms?from=mdr"
+                                    target="_blank">
+                                    <img src="images/logos/the-ec-1.png">
+                                    <p class="roboto-c">Hyperlocal news startup Way2News raises $14 million in funding
+                                        from existing backer WestBridge, others</p>
+                                    <label>by Ajay Rag, Published - SEP 17, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.financialexpress.com/business/brandwagon-brandwagon-chai-pe-charcha-with-way2news-raju-vanapala-3610375/"
+                                    target="_blank">
+                                    <img src="images/logos/financial-express-1.png">
+                                    <p class="roboto-c">BrandWagon Chai pe Charcha with Way2News' Raju Vanapala</p>
+                                    <label>by Gopika Nair, Published - SEP 14, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.techcircle.in/2024/08/08/how-way2news-is-leveraging-ai-for-faster-smarter-hyperlocal-reporting"
+                                    target="_blank">
+                                    <img src="images/logos/tech-circle-1.png">
+                                    <p class="roboto-c">How Way2News is leveraging AI for faster, smarter hyperlocal
+                                        reporting</p>
+                                    <label>by Shraddha Goled, Published - Aug 08, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.ptinews.com/press-release/south-india-s-investment-landscape-shifts-gold-reigns-fds-decline-stocks-gain-momentum-finds-way2news-survey/1702674"
+                                    target="_blank">
+                                    <img src="images/logos/pti-1.png">
+                                    <p class="roboto-c">South India's Investment Landscape Shifts: Gold Reigns, FDs
+                                        Decline, Stocks Gain Momentum, Finds Way2News Survey</p>
+                                    <label>by PTI News, Published - Aug 01, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.campaignindia.in/article/24-hours-with-raju-vanapala/497389"
+                                    target="_blank">
+                                    <img src="images/logos/campaign-1.png">
+                                    <p class="roboto-c">24 hours with... Raju Vanapala</p>
+                                    <label>by Campaign India, Published - JUL 25, 2024 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://twitter.com/way2_news/status/1535205916387119105?t=wXd-fR48dVbJSCek1-pfDw&s=19"
+                                    target="_blank">
+                                    <img src="images/logos/twitter-1.png">
+                                    <p class="roboto-c">IMPORTANT ANNOUNCEMENT !! We, at Way2News, raised $16.75 million
+                                        in funding from @WestBridge_Cap Capital.</p>
+                                    <label>by Way2News Twitter, Published - JUNE 10, 2022</label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.thehindu.com/news/cities/Hyderabad/hyperlocal-news-app-way2news-raises-1675-m/article65511879.ece"
+                                    target="_blank">
+                                    <img src="images/logos/thehindu-1.png">
+                                    <p class="roboto-c">Hyperlocal news app, Way2News, raises $16.75 m</p>
+                                    <label>by SPECIAL CORRESPONDENT, Published - JUNE 10, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.moneycontrol.com/news/business/startup/way2news-raises-16-75-million-led-by-westbridge-capital-8662391.html"
+                                    target="_blank">
+                                    <img src="images/logos/mc-1.png">
+                                    <p class="roboto-c">Way2News raises $16.75 million led by WestBridge Capital</p>
+                                    <label>by CR SUKUMAR, Published - JUNE 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.thehindubusinessline.com/info-tech/hyperlocal-news-app-way2news-raises-130-cr-in-series-a/article65509853.ece"
+                                    target="_blank">
+                                    <img src="images/logos/businessline-1.png">
+                                    <p class="roboto-c">Hyperlocal news app Way2News raises ₹130 cr in Series-A</p>
+                                    <label>by K V Kurmanath, Published - Jun 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="http://startuphyderabad.com/vernacular-short-news-app-way2news-raises-16-75-mn-in-series-a-round-led-by-westbridge-capital/"
+                                    target="_blank">
+                                    <img src="images/logos/start-uphyd-1.png">
+                                    <p class="roboto-c">Vernacular short news app Way2News raises $16.75 mn in Series-A
+                                        round led by WestBridge Capital</p>
+                                    <label>by Tata Teja, Published - JUNE 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.msn.com/en-in/money/topstories/way2news-raises-16-75-million-led-by-westbridge-capital/ar-AAYfdK3"
+                                    target="_blank">
+                                    <img src="images/logos/msn-1.png">
+                                    <p class="roboto-c">Way2News raises $16.75 million led by WestBridge Capital</p>
+                                    <label>by CR Sukumar, Published - Jun 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="http://www.uniindia.com/~/hyderabad-based-way2news-raises-16-75-million-in-series-a-round/Business%20Economy/news/2753259.html"
+                                    target="_blank">
+                                    <img src="images/logos/uniindia-1.png">
+                                    <p class="roboto-c">Hyderabad-based Way2News raises $16.75 million in series-A round
+                                    </p>
+                                    <label>by Tata Teja, Published - JUNE 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://yourstory.com/2022/06/funding-vernacular-short-news-app-way2news-westbridge-capital/amp"
+                                    target="_blank">
+                                    <img src="images/logos/yourstory-1.png">
+                                    <p class="roboto-c">[Funding alert] Short news app Way2News raises $16.75M in Series
+                                        A led by WestBridge Capital</p>
+                                    <label>by Sujata Sangwan, Published - Jun 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://inc42.com/buzz/hyperlocal-news-app-way2news-bags-16-75-mn-to-expand-user-base-in-southern-states/"
+                                    target="_blank">
+                                    <img src="images/logos/inc42-1.png">
+                                    <p class="roboto-c">Hyperlocal News App Way2News Bags $16.75 Mn To Expand User Base
+                                        In Southern States</p>
+                                    <label>by Jaspreet Kaur, Published - JUNE 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.outlookindia.com/business/way2news-raises-16-75-million-in-series-a-funding-news-201372"
+                                    target="_blank">
+                                    <img src="images/logos/outlook-1.png">
+                                    <p class="roboto-c">Way2news Raises $16.75 Million In Series-A Funding</p>
+                                    <label>by Press Trust of India, Published - Jun 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.financialexpress.com/brandwagon/way2news-raises-16-75-million-in-series-a-funding/2554659/"
+                                    target="_blank">
+                                    <img src="images/logos/financial-express-1.png">
+                                    <p class="roboto-c">Way2news raises $16.75 million in Series A funding</p>
+                                    <label>by PTI, Published - JUNE 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://telanganatoday.com/hyderabad-based-way2news-raises-rs-130-crore"
+                                    target="_blank">
+                                    <img src="images/logos/telangana-today-1.png">
+                                    <p class="roboto-c">Hyderabad-based Way2News raises Rs 130 crore</p>
+                                    <label>by TELANGANA TODAY, Published - Jun 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="media2">
+                                <a href="https://www.bizzbuzz.news/corporate/hyderabad-based-way2news-raises-1675-million-touted-as-top-news-app-1142402"
+                                    target="_blank">
+                                    <img src="images/logos/bizzbuzz-1.png">
+                                    <p class="roboto-c">Hyderabad based Way2News raises $16.75 million, touted as top
+                                        news app</p>
+                                    <label>by Dwaipayan Bhattacharjee, Published - JUNE 09, 2022 </label>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="text-center"><a href="media.html" class="readmore">Read More...</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg3" id="reviews">
+            <h2 class="text-center roboto-c">Loved by more than 20 million Indians!</h2>
+            <div class="container-fluid text-center">
+                <div class="container">
+                    <div class="row row-centered">
+                        <div class="col-md-8 col-centered">
+
+                            <div id="myCarousel1" class="carousel" data-ride="carousel">
+                                <!-- Carousel indicators -->
+
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+                                    <li data-target="#myCarousel1" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel1" data-slide-to="2"></li>
+                                    <li data-target="#myCarousel1" data-slide-to="3"></li>
+                                </ol>
+
+
+                                <!-- Wrapper for carousel items -->
+                                <div class="carousel-inner">
+                                    <div class="item carousel-item active">
+
+                                        <p class="testimonial">This is a must have app. It keeps me updated about the
+                                            everyday national and international news. Also helps me improve my
+                                            vocabulary
+                                            and pick some trending words. Thank you so much Way2News
+
+                                        </p>
+
+                                        <div class="star-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star-half-o"></i></li>
+                                            </ul>
+                                        </div>
+                                        <p class="overview">AISHWARY GOYAL</p>
+                                        <div class="img-box"><img src="images/testi4.png" alt=""></div>
+                                    </div>
+
+
+
+                                    <div class="item carousel-item">
+                                        <p class="testimonial">The best news app. I tried almost all news apps for
+                                            updated
+                                            and latest breaking news but all are in vein. Also other news apps occupy
+                                            large
+                                            space on hard card but Way2News doesn't. I find Way2News the best app ever
+                                            with
+                                            latest breaking news, light in weight, beautiful GUI. Thanks to Way2News
+                                            team.
+                                        </p>
+
+                                        <div class="star-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star-half-o"></i></li>
+                                            </ul>
+                                        </div>
+                                        <p class="overview">Hriday S. Singh Parihar</p>
+                                        <div class="img-box"><img src="images/testi3.png" alt=""></div>
+                                    </div>
+
+
+
+
+                                    <div class="item carousel-item ">
+                                        <p class="testimonial">Love you short and sweet story news, daily knowing very
+                                            well.
+                                            Everyday and anytime updating, what is going on, in the society. This app
+                                            really
+                                            useful. Always I love this app ever and forever...
+
+                                        </p>
+
+                                        <div class="star-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star-half-o"></i></li>
+                                            </ul>
+                                        </div>
+                                        <p class="overview">A Google User</p>
+                                        <div class="img-box"><img src="images/testi1.png" alt=""></div>
+                                    </div>
+
+
+
+
+
+                                    <div class="item carousel-item ">
+                                        <p class="testimonial">Very nice app u can get information on time very useful
+                                            for
+                                            daily news readers and followers
+
+                                        </p>
+
+                                        <div class="star-rating">
+                                            <ul class="list-inline">
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star"></i></li>
+                                                <li class="list-inline-item"><i class="fa fa-star-half-o"></i></li>
+                                            </ul>
+                                        </div>
+                                        <p class="overview">Mounika Kompally</p>
+                                        <div class="img-box"><img src="images/testi2.png" alt=""></div>
+                                    </div>
+
+
+                                </div>
+                                <!-- Carousel controls -->
+                                <a class="carousel-control left carousel-control-prev" href="#myCarousel1"
+                                    data-slide="prev">
+                                    <img src="images/arrow-left.png" alt="">
+                                </a>
+                                <a class="carousel-control right carousel-control-next" href="#myCarousel1"
+                                    data-slide="next">
+                                    <img src="images/arrow-right.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <div class="app_download">
+                <div class="row">
+
+
+                    <div class="col-lg-6 col-sm-6">
+                        <h4 class="roboto-c">Download <br>Way2News App Now</h4>
+                        <p>India is gravitating to short news. Why not read news in your native language?</p>
+                    </div>
+                    <div class="col-lg-6 col-sm-6">
+                        <div class="and-play">
+                            <p>Available on</p>
+                            <a href="https://apps.apple.com/in/app/way2news-short-news-app/id1021537384"
+                                target="_blank">
+                                <img src="images/app-store2.png" alt="">
+                            </a>
+                            <a href="https://play.google.com/store/apps/details?id=sun.way2sms.hyd.com"
+                                target="_blank"><img src="images/play-store2.png" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer id="contact">
+            <div class="container">
+                <div class="foot-sec">
+                    <div class="copyright">
+                        <span class="pull-left"> <span class="pull-left"></span>Copyright @ 2024 Way2News Private
+                            Limited
+                            All rights reserved.
+
+                        </span>
+                        <span class="pull-right ppp">
+                            <a href="terms.html" style="" target="_blank">Terms & Conditons</a>
+                              <a href="advertisement-terms-and-condition.html" style="" target="_blank">Advertisement T&C</a>
+                             <a href="payment-policy.html" style="" target="_blank">Payment Policy</a>
+                            <a href="privacy_policy.html" target="_blank">Privacy-Policy</a>
+			    <a href="whistle-blower.html" target="_blank">Whistle Blower Policy</a>
+                            <a href="contact.html">Grievance</a>
+
+                            <a href="https://www.facebook.com/way2newsapp/" target="_blank"><img
+                                    src="images/facebook-1.png" alt=""></a>
+                            <a href="https://www.linkedin.com/company/way2newsapp" target="_blank"><img
+                                    src="images/twitter-1.png" alt=""></a>
+                            <a href="https://twitter.com/way2_news" target="_blank"><img src="images/twitter.png"
+                                    alt=""></a>
+
+                            <a href="https://www.instagram.com/way2newsapp/" target="_blank"><img
+                                    src="images/group-9.png" alt=""></a>
+
+
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+        </footer>
+
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/app.js"></script>
+
+
+
+        <script>
+            $(document).ready(function () {
+
+                /**
+                 * This object controls the nav bar. Implement the add and remove
+                 * action over the elements of the nav bar that we want to change.
+                 *
+                 * @type {{flagAdd: boolean, elements: string[], add: Function, remove: Function}}
+                 */
+                var myNavBar = {
+
+                    flagAdd: true,
+
+                    elements: [],
+
+                    init: function (elements) {
+                        this.elements = elements;
+                    },
+
+                    add: function () {
+                        if (this.flagAdd) {
+                            for (var i = 0; i < this.elements.length; i++) {
+                                document.getElementById(this.elements[i]).className += " fixed-theme";
+                            }
+                            this.flagAdd = false;
+                        }
+                    },
+
+                    remove: function () {
+                        for (var i = 0; i < this.elements.length; i++) {
+                            document.getElementById(this.elements[i]).className =
+                                document.getElementById(this.elements[i]).className.replace(
+                                    /(?:^|\s)fixed-theme(?!\S)/g, '');
+                        }
+                        this.flagAdd = true;
+                    }
+
+                };
+
+                /**
+                 * Init the object. Pass the object the array of elements
+                 * that we want to change when the scroll goes down
+                 */
+                myNavBar.init([
+                    "header",
+                    "header-container",
+                    "brand"
+                ]);
+
+                /**
+                 * Function that manage the direction
+                 * of the scroll
+                 */
+                function offSetManager() {
+
+                    var yOffset = 0;
+                    var currYOffSet = window.pageYOffset;
+
+                    if (yOffset < currYOffSet) {
+                        myNavBar.add();
+                    } else if (currYOffSet == yOffset) {
+                        myNavBar.remove();
+                    }
+
+                }
+
+                /**
+                 * bind to the document scroll detection
+                 */
+                window.onscroll = function (e) {
+                    offSetManager();
+                }
+
+                /**
+                 * We have to do a first detectation of offset because the page
+                 * could be load with scroll down set.
+                 */
+                offSetManager();
+            });
+        </script>
+
+
+        <script>
+            $('#navbar a[href^="#"]').on('click', function (event) {
+                var target = $(this.getAttribute('href'));
+                if (target.length) {
+                    event.preventDefault();
+                    $('html, body').stop().animate({
+                        scrollTop: target.offset().top - 90
+                    }, 1000);
+                }
+            });
+            $(document).ready(function () {
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 1000) {
+                        $('.scroll').fadeIn();
+                    } else {
+                        $('.scroll').fadeOut();
+                    }
+                });
+            });
+        </script>
+
+
+
+
+
+        <script>
+            var lastId,
+                topMenu = $("#top-menu"),
+                topMenuHeight = topMenu.outerHeight(),
+                // All list items
+                menuItems = topMenu.find("a"),
+                // Anchors corresponding to menu items
+                scrollItems = menuItems.map(function () {
+                    var item = $($(this).attr("href"));
+                    if (item.length) {
+                        return item;
+                    }
+                });
+
+            // Bind click handler to menu items
+            // so we can get a fancy scroll animation
+
+            // Bind to scroll
+            $(window).scroll(function () {
+                // Get container scroll position
+                var fromTop = $(this).scrollTop() + topMenuHeight;
+
+                // Get id of current scroll item
+                var cur = scrollItems.map(function () {
+                    if ($(this).offset().top < fromTop)
+                        return this;
+                });
+                // Get the id of the current element
+                cur = cur[cur.length - 1];
+                var id = cur && cur.length ? cur[0].id : "";
+
+                if (lastId !== id) {
+                    lastId = id;
+                    // Set/remove active class
+                    menuItems
+                        .parent().removeClass("active")
+                        .end().filter("[href='#" + id + "']").parent().addClass("active");
+                }
+            });
+        </script>
+
+
+
+    </body>
+
+</html>

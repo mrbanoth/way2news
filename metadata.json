@@ -1,0 +1,6 @@
+{
+  "name": "Way2News - No.1 Hyper Local Short News App",
+  "description": "India's #1 Hyperlocal Short News App covering 400+ districts in 8 Indian languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
